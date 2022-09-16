@@ -1,6 +1,4 @@
-# diabetes_app.py
 
-# imports
 import pandas as pd
 import joblib
 import streamlit as st
