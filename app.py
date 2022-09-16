@@ -33,7 +33,7 @@ with st.expander("Click for FAQ:"):
         6. General Health
         * Weight and Height get converted to BMI for use in the model.
     * **How does this work?**
-        * Survey responses from the CDC's Behavioral Risk Factor Surveillance System were used to train a simple, easy to interpret machine learning model called a Decision Tree. [Code Source](https://www.kaggle.com/code/alexteboul/diabetes-risk-streamlit-app)
+        * Survey responses from the CDC's Behavioral Risk Factor Surveillance System were used to train a simple, easy to interpret machine learning model called a Decision Tree. [Code Source](https://github.com/theprasenjeet/diabetes-predict/edit/main/app.py)
         * Decision Trees work by creating a set of rules for making a prediction based on previously seen examples.
         * In our case, the Decision Tree has learned to predict if someone is at risk of developing Type II Diabetes or already has Type II Diabetes.
         * This app **DOES NOT PROVIDE A DIAGNOSIS**, it is simply meant as a **public awareness tool** to drive healthier habits and get those at risk of Type II Diabetes / those with prediabetes to seek the professional medical advice.
